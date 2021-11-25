@@ -1,5 +1,5 @@
 # productivity_notifier
-A small program to remind you to keep working and never stop!
+A small program to remind you to keep working
 
 ![Screenshot_8](https://user-images.githubusercontent.com/44104789/136438572-a7a7cbc4-8a01-472a-b0d5-40eb2a4577de.png)
 
